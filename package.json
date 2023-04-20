@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt-classifier-lettres-motivation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Androz2091/chatgpt-classifier-lettres-motivation.git",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.10.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

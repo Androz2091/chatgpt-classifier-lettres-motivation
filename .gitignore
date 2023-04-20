@@ -1,0 +1,11 @@
+# Node
+node_modules
+
+# queue
+queue/*.txt
+
+# handled
+handled/*.txt
+
+# results
+results.csv
