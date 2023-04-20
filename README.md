@@ -17,3 +17,9 @@ L'objectif de ce projet est d'analyser automatiquement une série de fichiers te
 ## Exploitation des résultats
 
 - le fichier CSV contient deux colonnes (Lettre,Resultat)
+- Lettre est le nom du fichier texte analysé
+- Resultat peut être :
+    * The classifier considers the text to be very unlikely AI-generated.
+    * The classifier considers the text to be likely AI-generated.
+    * The classifier considers the text to be possibly AI-generated.
+    * The classifier considers the text to be unclear if it is AI-generated.
